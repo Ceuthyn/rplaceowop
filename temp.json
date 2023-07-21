@@ -1,0 +1,15 @@
+{
+    "contact": "discord.gg/4mR6XvgUmt",
+    "templates": [
+      {
+        "name": "owop.me",
+        "sources": [
+          "https://raw.githubusercontent.com/Ceuthyn/rplaceowop/main/owop.me.png"
+        ],
+        "x": 750,
+        "y": 374
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
